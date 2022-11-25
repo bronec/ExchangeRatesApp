@@ -1,0 +1,31 @@
+﻿<Window x:Class="ExchangeRateAnalysis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExchangeRateAnalysis" 
+        xmlns:mainwindow="clr-namespace:ExchangeRateAnalysis.UI.MainWindow"
+        mc:Ignorable="d"
+        d:DataContext="{d:DesignInstance mainwindow:MainWindowViewModel}"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+        <DatePicker x:Name="StartDatePicker" SelectedDate="{Binding StartDate, Mode=TwoWay}" HorizontalAlignment="Left" Margin="65,38,0,0" VerticalAlignment="Top" Width="120" Height="22">
+
+        </DatePicker>
+        <Label Content="-" HorizontalAlignment="Left" Margin="210,36,0,0" VerticalAlignment="Top" Width="15" Height="26"/>
+        <DatePicker x:Name="EndDatePicker" SelectedDate="{Binding EndDate, Mode=TwoWay}" HorizontalAlignment="Left" Margin="250,38,0,0" VerticalAlignment="Top" Width="120" Height="22">
+
+        </DatePicker>
+        <Button Content="Получить" HorizontalAlignment="Left" Margin="610,38,0,0" VerticalAlignment="Top" Command="{Binding Submit}" Height="24" Width="105"/>
+        <ComboBox x:Name="majorСurrencies" DisplayMemberPath="Name" ItemsSource="{Binding Currencies}" SelectedItem="{Binding SelectedCurrency, Mode=TwoWay}" HorizontalAlignment="Left" Margin="435,38,0,0" VerticalAlignment="Top" Width="120" Height="22">
+
+        </ComboBox>
+        <StackPanel Grid.Row="1" Margin="0,10,0,0">
+            <WpfPlot x:Name="Chart" Height="340" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,126 @@
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Processing GET request
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:7020
+Now listening on: http://localhost:5020
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:442
+Now listening on: http://localhost:80
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:442
+Now listening on: http://localhost:80
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Processing GET request
+Processing GET request
+Now listening on: https://localhost:442
+Now listening on: http://localhost:80
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:442
+Now listening on: http://localhost:80
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:443
+Now listening on: http://localhost:81
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Now listening on: https://localhost:444
+Now listening on: http://localhost:82
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Now listening on: https://localhost:444
+Now listening on: http://localhost:82
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\MyProgect\ExchangeRatesServer\ExchangeRatesServer\
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
+Processing GET request
